@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'KoHo', sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Pattaya', sans-serif;
+  font-size: 5.625rem;
+  color: #11999E;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #11999E;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a7bbc7;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.subtitle {
+  font-family: 'KoHo', sans-serif;
+}
+
+.top-container {
+  background-color: #bbf1fa;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #bbf1fa;
+  padding: 50px 0 20px;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro{
+  margin: auto;
+  width: 70%
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.developer-skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.engineer-skill{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cycling-skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.p-contact{
+  margin-bottom: 50px;
+}
+
+.btn {
+  border-style: solid;
+  border-width: medium;
+  border-color: #11999E;
+  background-color: #11999E;
+  border-radius: 8px;
+  color: white;
+  padding: 5px;
+  margin: 20px auto auto auto;
+  text-decoration: none;
+}
+
+.btn:hover {
+  border-style: solid;
+  border-width: medium;
+  border-color: #a6d6d6;
+  background-color: #a6d6d6;
+
+}
+
+.footer-link {
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #11999E;
+  margin: 10px 20px;
+}
+
+.footer-link:hover {
+  color: #a6d6d6;
+}
+
+.p-cp {
+  font-size: 85%;
+  margin: 30px auto 10px auto;
+}
